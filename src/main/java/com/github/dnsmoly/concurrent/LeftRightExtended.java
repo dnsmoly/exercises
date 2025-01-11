@@ -2,7 +2,7 @@ package com.github.dnsmoly.concurrent;
 
 import java.util.ArrayList;
 
-public class LeftRightsExtended {
+public class LeftRightExtended {
     public static void walk() throws InterruptedException {
         var totalLegs = 40;
         var legs = new ArrayList<Leg>(totalLegs);
